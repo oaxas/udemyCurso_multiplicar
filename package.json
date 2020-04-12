@@ -1,0 +1,17 @@
+{
+  "name": "bases_node",
+  "version": "1.0.0",
+  "description": "ejemplo del curso de udemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oaxas",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "yargs": "^15.3.1"
+  }
+}
